@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SoundManager
+comment0.text=\n\ Contains\ methods\ used\ to\ initialize\ and\ play\ sounds\n
+comment1.params=soundName\ numOfDupes
+comment1.target=greenfoot.GreenfootSound[]\ initSound(java.lang.String,\ int)
+comment2.params=sounds\ currentIndex\ volume
+comment2.target=int\ playMySound(greenfoot.GreenfootSound[],\ int,\ int)
+numComments=3

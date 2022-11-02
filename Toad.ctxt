@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Toad
+comment0.text=\n\ Basic\ type\ of\ Pedestrian,\ differing\ from\ Goombas\ with\ its\ ability\ to\ knock\ back\ GreenShell\n\ \n\ Sprite\ Credits\:\ \n\ https\://www.deviantart.com/thecynicalpoet/art/MLSS-Toad-Sprites-203747832\n\ Audio\ Credits\:\n\ "Hurt",\ "Here\ I\ Go",\ https\://themushroomkingdom.net/media/mparty8/wav\n
+comment1.params=direction
+comment1.target=Toad(int)
+comment2.params=
+comment2.target=void\ playHurtSound()
+comment3.params=
+comment3.target=void\ playReviveSound()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=java.lang.String\ getHead()
+comment6.params=
+comment6.target=java.lang.String\ getFall()
+numComments=7

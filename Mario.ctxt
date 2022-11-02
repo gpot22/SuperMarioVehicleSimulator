@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Mario
+comment0.text=\n\ Type\ of\ pedestrian\ which\ has\ a\ chance\ to\ follow\ a\ Bus\n\ \n\ Sprite\ Credits\:\n\ https\://www.deviantart.com/hartflip0218/art/Custom-Mario-sprite-sheet-ver-1-768101045\n\ Audio\ Credits\:\n\ "Hurt",\ "Celebrating",\ https\://themushroomkingdom.net/media/mparty8/wav\n
+comment1.params=direction
+comment1.target=Mario(int)
+comment2.params=
+comment2.target=void\ playHurtSound()
+comment3.params=
+comment3.target=void\ playReviveSound()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=java.lang.String\ getHead()
+comment6.params=
+comment6.target=java.lang.String\ getFall()
+comment7.params=
+comment7.target=void\ moveOrFollowBus()
+numComments=8

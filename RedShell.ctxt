@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RedShell
+comment0.text=\n\ Type\ of\ Projectile\ which\ is\ shot\ by\ EnemyCars.\ RedShell\ knocks\ down\ Pedestrians\ (other\ than\ Koopas,\ which\ get\ pushed\ back)\n\ and\ cause\ Vehicles\ to\ "slip"\n\ \n\ Sprite\ Credits\:\n\ https\://www.spriters-resource.com/snes/smarioworld/sheet/143271/\n\ \n\ Audio\ Credits\:\n\ https\://www.sounds-resource.com/wii_u/mariokart8/sound/3864/\n
+comment1.params=origin\ target
+comment1.target=RedShell(EnemyCar,\ Pedestrian)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=boolean\ checkHitPedestrian()
+comment5.params=
+comment5.target=boolean\ checkHitVehicle()
+comment6.params=
+comment6.target=boolean\ checkHit()
+numComments=7

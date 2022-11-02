@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ReviveMushroom
+comment0.text=\n\ ReviveMushrooms\ are\ thrown\ by\ Healers\ to\ heal\ fallen\ Pedestrians\n\ \n\ Sprite\ Credits\:\n\ https\://www.deviantart.com/epochflipnote/art/Sprite-Green-mushroom-682377414\n
+comment1.params=origin\ target
+comment1.target=ReviveMushroom(Healer,\ Pedestrian)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=boolean\ checkHit()
+numComments=5

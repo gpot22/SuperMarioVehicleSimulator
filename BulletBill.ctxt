@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=BulletBill
+comment0.text=\n\ BulletBill\ knocks\ Pedestrians\ and\ Vehicles\ off\ of\ the\ map.\ After\ a\ certain\ number\ of\ collisions,\ it\ explodes\n\ \n\ Sprite\ Credits\:\n\ https\://www.spriters-resource.com/fullview/143539/\n
+comment1.params=origin
+comment1.target=BulletBill(VehicleSpawner)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ explosionSequence()
+comment4.params=
+comment4.target=boolean\ checkHitPedestrian()
+comment5.params=
+comment5.target=boolean\ checkHitVehicle()
+comment6.params=
+comment6.target=boolean\ facesRightward()
+comment7.params=x
+comment7.target=void\ setSpeed(int)
+numComments=8

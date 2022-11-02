@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Goomba
+comment0.text=\n\ Basic\ type\ of\ pedestrian,\ with\ no\ special\ functionality\n\ Sprite\ Credits\:\n\ https\://www.deviantart.com/asylusgoji91/art/Jeff-The-Goomba-Sprite-sheet-391901949\n\ \n\ Audio\ Credits\:\n\ "Goomba\ Happy",\ "Goomba\ Sad",\ https\://themushroomkingdom.net/media/mparty8/wav\n
+comment1.params=direction
+comment1.target=Goomba(int)
+comment2.params=
+comment2.target=void\ playHurtSound()
+comment3.params=
+comment3.target=void\ playReviveSound()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=java.lang.String\ getHead()
+comment6.params=
+comment6.target=java.lang.String\ getFall()
+numComments=7

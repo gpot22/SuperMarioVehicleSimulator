@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PedHitbox
+comment0.text=\n\ Hitbox\ for\ the\ Pedestrian\ class\n
+comment1.params=target
+comment1.target=PedHitbox(greenfoot.Actor)
+comment2.params=target\ xOffset\ yOffset\ width\ height\ followTarget\ rotateWithTarget
+comment2.target=PedHitbox(greenfoot.Actor,\ int,\ int,\ int,\ int,\ boolean,\ boolean)
+comment3.params=target\ xOffset\ yOffset\ width\ height\ followTarget\ rotateWithTarget\ visible
+comment3.target=PedHitbox(greenfoot.Actor,\ int,\ int,\ int,\ int,\ boolean,\ boolean,\ boolean)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

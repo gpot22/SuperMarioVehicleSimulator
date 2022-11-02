@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Explosion
+comment0.text=\n\ Explosion\ graphic\ -\ An\ Actor\ that\ consists\ of\ a\ circle\ that\ expands\n\ to\ a\ set\ size,\ then\ removes\ itself\ from\ the\ world,\ create\ the\ \n\ appearance\ of\ an\ explosion\n\ \n\ Note\ -\ to\ use\ this,\ your\ WORLD\ CONSTRUCTOR\ MUST\ CALL\:\ \n\ \n\ Explosion.init();\ \n\ \n\ @author\:\ Mr.\ Cohen,\ edited\ by\ Caden\ Chan\n\ \n\ Audio\ Credits\:\n\ "Explosion\ 7",\ https\://www.freesoundeffects.com/free-sounds/explosion-10070/\n
+comment1.params=maxSize
+comment1.target=Explosion(int)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ initSound()
+comment3.text=\n\ Pre-load\ sounds\ for\ explosions\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Act\ method\ gets\ called\ by\ Greenfoot\ every\ frame.\ In\ this\ class,\ this\ method\n\ will\ serve\ to\ increase\ the\ size\ each\ act\ until\ maxSize\ is\ reached,\ at\ which\n\ point\ the\ object\ will\ remove\ itself\ from\ existence.\n
+comment5.params=
+comment5.target=void\ redraw()
+comment5.text=\n\ redraw()\ method\ is\ a\ private\ method\ called\ by\ this\ object\ each\ act\n\ in\ order\ to\ redraw\ the\ graphic\n
+numComments=6

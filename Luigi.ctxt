@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Luigi
+comment0.text=\n\ Luigi\ spawns\ when\ a\ bus\ gets\ blown\ up\ by\ an\ exploding\ BulletBill\n\ \n\ Sprite\ Credits\:\n\ "Hurt",\ "Blown\ Away",\ https\://www.deviantart.com/weakfoggy/art/RPG-Maker-MV-Luigi-Overworld-2-583595164\n
+comment1.params=w
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ initSound()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WideTurnFlag
+comment0.text=\n\ Flag\ indicating\ a\ bigger\ turn\ (outer-bit\ of\ the\ semi-circle)\n
+comment1.params=x\ y\ width\ height\ radius\ leftCurve
+comment1.target=WideTurnFlag(int,\ int,\ int,\ int,\ int,\ boolean)
+numComments=2

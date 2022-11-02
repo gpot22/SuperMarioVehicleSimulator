@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BulletLuigi
+comment0.text=\n\ BulletLuigi\ acts\ like\ BulletBill,\ but\ spawns\ during\ a\ Luigi\ BulletStorm\n\ \n\ Sprite\ Credits\:\n\ https\://www.spriters-resource.com/snes/smarioworld/sheet/143271/\n\ https\://www.spriters-resource.com/fullview/143539/\n\ Edited\ by\ Caden\ Chan\n
+comment1.params=startImage\ startX\ startY\ speed
+comment1.target=BulletLuigi(java.lang.String,\ int,\ int,\ double)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

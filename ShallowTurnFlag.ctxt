@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ShallowTurnFlag
+comment0.text=\n\ F\n
+comment1.params=x\ y\ width\ height\ radius\ leftCurve
+comment1.target=ShallowTurnFlag(int,\ int,\ int,\ int,\ int,\ boolean)
+numComments=2

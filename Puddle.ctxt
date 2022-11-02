@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Puddle
+comment0.text=\n\ Puddles\ cause\ non-heavy\ RoadVehiles\ to\ slip\n\ \n\ Sprite\ Credits\:\n\ https\://www.istockphoto.com/illustrations/puddle-reflection-sky\n
+comment1.params=duration
+comment1.target=Puddle(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

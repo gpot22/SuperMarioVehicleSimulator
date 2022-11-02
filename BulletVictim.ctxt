@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BulletVictim
+comment0.text=\n\ Pedestrians\ are\ replaced\ by\ BulletVictims\ when\ hit\ by\ a\ BulletBill\ or\ BulletLuigi\n
+comment1.params=origin\ bullet
+comment1.target=BulletVictim(greenfoot.Actor,\ Bullet)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

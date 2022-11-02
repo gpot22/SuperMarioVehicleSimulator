@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Animator
+comment0.text=\n\ Superclass\ for\ all\ actors\ which\ may\ (or\ may\ not)\ need\ to\ have\n\ an\ animated\ sprite\ cycle.\n
+comment1.params=prefix\ suffix\ maxIndex
+comment1.target=void\ setAnimationCycle(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ cycleAvatar()
+comment3.params=s
+comment3.target=void\ setPrefix(java.lang.String)
+comment4.params=s
+comment4.target=void\ setSuffix(java.lang.String)
+numComments=5

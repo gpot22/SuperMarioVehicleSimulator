@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnemyCar
+comment0.text=\n\ The\ EnemyCar\ subclass,\ knocks\ down\ pedestrians\ by\ throwing\ red\ shells\ or\ running\ over\ them\n\ \n\ Spri\n\ See\ RoadVehicle\ Class\n
+comment1.params=origin
+comment1.target=EnemyCar(VehicleSpawner)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ checkHitPedestrian()
+comment3.text=\n\ When\ a\ Car\ hit's\ a\ Pedestrian,\ it\ should\ knock\ it\ over\n
+comment4.params=
+comment4.target=void\ tossItem()
+numComments=5

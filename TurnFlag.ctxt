@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TurnFlag
+comment0.text=\n\ Colliders\ which\ tell\ a\ vehicle\ how\ to\ behave\ at\ a\ curve\ on\ the\ road\n
+comment1.params=
+comment1.target=TurnFlag()
+comment2.params=
+comment2.target=void\ drawBorder()
+comment3.params=
+comment3.target=double\ getTurnLength()
+comment4.params=
+comment4.target=boolean\ isLeftCurve()
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+numComments=7

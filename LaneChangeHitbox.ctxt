@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LaneChangeHitbox
+comment0.text=\n\ Hitbox\ class\ for\ RoadVehicles\n
+comment1.params=target
+comment1.target=LaneChangeHitbox(greenfoot.Actor)
+comment2.params=target\ xOffset\ yOffset\ width\ height\ followTarget\ rotateWithTarget
+comment2.target=LaneChangeHitbox(greenfoot.Actor,\ int,\ int,\ int,\ int,\ boolean,\ boolean)
+comment3.params=target\ xOffset\ yOffset\ width\ height\ followTarget\ rotateWithTarget\ visible
+comment3.target=LaneChangeHitbox(greenfoot.Actor,\ int,\ int,\ int,\ int,\ boolean,\ boolean,\ boolean)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

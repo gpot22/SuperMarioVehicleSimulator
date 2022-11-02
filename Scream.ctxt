@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Scream
+comment0.text=\n\ Scream\ class\ to\ give\ the\ visual\ effect\ of\ Luigi\ screaming\n\ Written\ by\ Caden\ Chan,\ based\ on\ Mr.\ Cohen's\ Explosion\ effect\n
+comment1.params=maxSize
+comment1.target=Scream(int)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ playMySound()
+comment4.params=
+comment4.target=void\ initSound()
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\n\ Act\ method\ gets\ called\ by\ Greenfoot\ every\ frame.\ In\ this\ class,\ this\ method\n\ will\ serve\ to\ increase\ the\ size\ each\ act\ until\ maxSize\ is\ reached,\ at\ which\n\ point\ the\ object\ will\ remove\ itself\ from\ existence.\n
+comment6.params=
+comment6.target=void\ redraw()
+comment6.text=\n\ redraw()\ method\ is\ a\ private\ method\ called\ by\ this\ object\ each\ act\n\ in\ order\ to\ redraw\ the\ graphic\n
+numComments=7

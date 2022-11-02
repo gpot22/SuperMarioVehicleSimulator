@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Koopa
+comment0.text=\n\ Type\ of\ Pedestrian\ which\ turns\ into\ a\ GreenShell\ when\ knocked\ by\ a\ Vehicle\ or,\ in\ certain\ cases,\ another\ Pedestrian\n\ \n\ Sprite\ Credits\:\n\ https\://www.spriters-resource.com/snes/smarioworld/sheet/143271/\n\ \n\ Audio\ Credits\:\n\ "Koopa\ Happy",\ "Koopa\ Sad",\ https\://themushroomkingdom.net/media/mparty8/wav\n
+comment1.params=direction
+comment1.target=Koopa(int)
+comment10.params=
+comment10.target=boolean\ handlePushing()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ playHurtSound()
+comment4.params=
+comment4.target=void\ playReviveSound()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=java.lang.String\ getHead()
+comment7.params=
+comment7.target=java.lang.String\ getFall()
+comment8.params=a\ s
+comment8.target=void\ pushShell(double,\ double)
+comment9.params=a
+comment9.target=void\ pushKoopaBack(double)
+numComments=11

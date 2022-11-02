@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\n\ Superclass\ for\ actors\ that\ spawn\ from\ another\ actor's\ actions\n
+comment1.params=
+comment1.target=boolean\ checkHit()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=boolean\ outOfBounds()
+numComments=4

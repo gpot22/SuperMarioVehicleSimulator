@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Bus
+comment0.text=\n\ The\ Bus\ subclass\n\ Sprite\ Credits\:\n\ https\://www.subpng.com/png-ua8x87/\n\ https\://www.deviantart.com/snowgibbonbasilisk91/art/Super-Mario-Kart-Sprites-w-Customs-403971952\n\ Edited\ by\ Caden\ Chan\n
+comment1.params=origin
+comment1.target=Bus(VehicleSpawner)
+comment10.params=
+comment10.target=void\ spawnPassengers()
+comment11.params=
+comment11.target=void\ bulletStormCheat()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Bus\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=boolean\ checkHitPedestrian()
+comment4.params=
+comment4.target=void\ stop()
+comment5.params=
+comment5.target=void\ go()
+comment6.params=p
+comment6.target=void\ addPassenger(Pedestrian)
+comment7.params=img
+comment7.target=void\ drawPassenger(java.lang.String)
+comment8.params=img\ x
+comment8.target=void\ drawPassenger(java.lang.String,\ int)
+comment9.params=
+comment9.target=boolean\ isMaxCapacity()
+numComments=12
